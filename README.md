@@ -1,0 +1,2 @@
+# basicbashcmd
+Basic Bash Command
